@@ -1,0 +1,31 @@
+locality,population_density,avg_income_lpa,metro_access,road_connectivity,competitor_count,office_hubs,commercial_score,rental_index
+Whitefield,12500,19,8,9,8,10,10,9
+Electronic City,11000,12,6,8,5,9,8,6
+Koramangala,14000,20,7,9,9,8,10,10
+HSR Layout,13500,18,7,8,7,8,9,8
+Indiranagar,14500,22,8,9,8,7,10,10
+Marathahalli,13000,14,6,9,7,8,8,7
+Hebbal,10000,15,8,9,5,7,8,7
+Yelahanka,8500,11,5,8,3,4,6,5
+Jayanagar,12000,16,7,8,6,5,8,7
+Rajajinagar,11500,15,8,8,5,5,8,7
+BTM Layout,12800,13,6,8,6,6,8,6
+Bellandur,13200,17,6,8,7,9,9,8
+Sarjapur Road,10800,16,5,8,4,8,8,7
+Malleshwaram,11800,17,7,8,5,4,8,8
+Banashankari,11200,12,6,8,4,4,7,5
+JP Nagar,11000,13,6,8,4,4,7,6
+Kalyan Nagar,9800,14,5,7,3,3,6,6
+RT Nagar,9600,11,4,7,3,2,5,5
+Brookefield,11900,17,6,8,5,7,8,7
+KR Puram,10500,12,5,8,4,5,6,5
+Hennur,9200,13,4,7,2,3,5,5
+Nagawara,9800,13,5,8,3,4,6,5
+Mahadevapura,12500,18,7,9,6,9,9,8
+Varthur,8800,11,3,7,2,4,5,4
+Yeshwanthpur,10200,13,7,9,4,4,7,6
+Basavanagudi,10800,14,6,7,4,3,7,6
+Frazer Town,9700,15,5,7,3,3,6,6
+Shivajinagar,12500,10,7,8,6,4,8,5
+Domlur,11600,17,6,8,5,6,8,7
+CV Raman Nagar,10100,15,5,7,3,5,6,6
