@@ -197,6 +197,19 @@ The approach can be extended to:
 
 ---
 
+## Project Screenshots
+
+### Top Expansion Opportunities
+![Top Expansion Opportunities](screenshots/top10_locations.png)
+
+### Market Segmentation
+![Market Segmentation](screenshots/market_segmentation.png)
+
+### Bangalore Expansion Map
+![Expansion Map](screenshots/expansion_map.png)
+
+---
+
 ## Installation
 
 Clone the repository:
@@ -211,13 +224,4 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 
-## Project Screenshots
 
-### Top Expansion Opportunities
-![Top Expansion Opportunities](screenshots/top10_locations.png)
-
-### Market Segmentation
-![Market Segmentation](screenshots/market_segmentation.png)
-
-### Bangalore Expansion Map
-![Expansion Map](screenshots/expansion_map.png)
